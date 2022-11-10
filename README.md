@@ -1,5 +1,5 @@
 <h1>Hello! 👋</h1>
-I am a <strong>Full Stack Software Developer</strong> that is passionate about continuing my personal and professional education in the world of software development. Browse my repositories to find out what applications I've been working on, and contact me through one of the below links.
+I am a <strong>Full Stack Software Developer I</strong> that is passionate about continuing my personal and professional education in the world of software development. Browse my repositories to find out what applications I've been working on, and contact me through one of the below links.
 <br>
 <br>
 <div align="center">
@@ -26,7 +26,7 @@ I am a <strong>Full Stack Software Developer</strong> that is passionate about c
     <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="Illustrator" **alt="Illustrator" width="40" height="40"/>
 </div>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Max-Ball&hide=css,scss&layout=compact&count_private=true&theme=gruvbox" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Max-Ball&hide=css,scss,html&layout=compact&count_private=true&theme=gruvbox" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Max-Ball&count_private=true&theme=gruvbox" />
 <br>
 <br>
