@@ -1,5 +1,5 @@
 <h1>Hello! 👋</h1>
-I am a <strong>Full Stack Software Developer I</strong> that is passionate about continuing my personal and professional education in the world of software development. Browse my repositories to find out what applications I've been working on, and contact me through one of the below links.
+I am a <strong>Full Stack Software Developer</strong> that is passionate about continuing my personal and professional education in the world of software development. Browse my repositories to find out what applications I've been working on, and contact me through one of the below links.
 <br>
 <br>
 <div align="center">
