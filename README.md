@@ -3,7 +3,7 @@ I am a <strong>Full Stack Software Developer</strong> that is passionate about c
 <br>
 <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Max-Ball&hide=css,scss,html&layout=compact&count_private=true&theme=gruvbox" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=Max-Ball&count_private=true&theme=gruvbox" />
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Max-Ball&count_private=true&theme=gruvbox" /> -->
 <br>
 <br>
 
